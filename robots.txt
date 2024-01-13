@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://r00ta.github.io/sitemap.xml
+Sitemap: https://r00ta.com/sitemap.xml
