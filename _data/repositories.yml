@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - r00ta
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - maas/maas
+  - apache/incubator-kie-kogito-runtimes
+  - apache/incubator-kie-kogito-apps
+  - 5733d9e2be6485d52ffa08870cabdee0/sandbox
+  - kiegroup/trusty-ai-sandbox

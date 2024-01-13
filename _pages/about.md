@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Currently a Software Engineer @ Canonical. Cycling and running lover.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: me2.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Me celebrating a rare moment of freedom and epic victory at the same time not sitting at my desk</p>
+    <p>Bergamo, 2023</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +18,26 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm r00ta, also known as Jacopo Rota in the real world. I don't know how you landed here, but hey, welcome!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was born nearby Milan,
+
+I grew up nearby Milan,
+
+I took my Master's in Computer Science guess where, in Milan,
+
+I still live nearby Milan and I don't plan to move away,
+
+That place nearby Milan is called Saronno.
+
+I'm lucky enough not to live in Milan though :)
+
+When I was at the University I had two main passions: cyber security and machine learning - in particular the so called statistical learning. I used to play CTF (Capture the Flag) contests with <a href='https://l4ser.github.io/'>Fuffateam</a>, you can find some write ups in <a href='https://github.com/r00ta/myWriteUps'>this repo</a>.
+
+In the past I founded a startup, I worked for <a href="https://www.swissre.com/">Swiss RE</a> to build a while label product for the telematics insurance market worldwide and for <a href="https://www.redhat.com/it">Red Hat</a> for its cloud offering.
+
+I then joined <a href="https://canonical.com/">Canonical</a> to work on <a href="https://maas.io/">MAAS</a> because I love low level stuff and hardware hell yeah.
+
+When I'm not sitting at my desk or enjoying life with my family, I'm probably cycling, running or hiking.
