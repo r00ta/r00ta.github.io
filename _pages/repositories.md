@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: projects
+title: Projects
 description: Some of the open source projects I worked on.
 nav: true
 nav_order: 4

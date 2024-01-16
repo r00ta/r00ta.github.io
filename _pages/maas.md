@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /blog/
-title: Blog
+permalink: /maas/
+title: MAAS
 nav: true
-nav_order: 1
+nav_order: 3
 pagination:
   enabled: true
   collection: posts

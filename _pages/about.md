@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Currently a Software Engineer @ Canonical. Cycling and running lover.
 
@@ -29,8 +29,6 @@ I grew up nearby Milan,
 I took my Master's in Computer Science guess where, in Milan,
 
 I still live nearby Milan and I don't plan to move away,
-
-That place nearby Milan is called Saronno.
 
 I'm lucky enough not to live in Milan though :)
 
